@@ -32,10 +32,13 @@ As Kanye West said:
 ```
 ## `Markdown`
 ```
+````
 
-| First | Second | Thirad |
-|:------|:------:|-------:|
-| cell 1| cell 2 | cell 3 |
+|First|Second|Thirad|
+|:-----|:------:|------:|
+|cell 1|cell 2|cell 3|
+|cell 1|cell 2|cell 3|
+|cell 1|cell 2|cell 3|
 
 :+1:
 :sparkles:
